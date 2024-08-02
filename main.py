@@ -61,7 +61,7 @@ def write_config(config):
 
 config = load_config()
 bot = telebot.TeleBot(config['7244483076:AAHhpeo-juI2UeGKH0qgVK_3pfxC5joRXSk'])
-ADMIN_IDS = set(config['@MSDxDHRUV_BOT'])
+ADMIN_IDS = set(config['5753494090'])
 USER_FILE = config['user_file']
 LOG_FILE = config['log_file']
 COOLDOWN_TIME = config['cooldown_time']
